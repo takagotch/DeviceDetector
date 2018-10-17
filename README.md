@@ -7,6 +7,7 @@ https://github.com/podigee/device_detector
 https://github.com/matomo-org/device-detector
 
 ```
+
 ```
 
 ```ruby
